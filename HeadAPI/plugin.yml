@@ -1,0 +1,4 @@
+name: ItemAPI
+version: ${project.version}
+main: me.item.ItemAPIPlugin
+author: PricklyRedstone
